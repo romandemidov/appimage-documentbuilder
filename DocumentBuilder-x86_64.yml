@@ -43,3 +43,4 @@ script:
   - ln -s /tmp/onlyoffice/documentbuilder/AllFonts.js opt/onlyoffice/documentbuilder/sdkjs/common/AllFonts.js
   - ln -s /tmp/onlyoffice/documentbuilder/fonts.log opt/onlyoffice/documentbuilder/sdkjs/common/fonts.log
   - ln -s /tmp/onlyoffice/documentbuilder/font_selection.bin opt/onlyoffice/documentbuilder/sdkjs/common/font_selection.bin
+  - #test1
